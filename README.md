@@ -55,9 +55,9 @@ git push heroku master
 
 |Deliverable number|Name |Team Role| Individual Efforts (hours)|
 |:------------:|:-----------|:------------|:-----------|
-|1|Adam Babs|Domain Model and Requirements Model|30|
+|1|Adam Babs|Project Manager - Domain Model and Requirements Model|30|
 |1|Georges Mourant|Documentation Manager|30|
-|1|Imane Chafi|Project and Database Manager|30|
+|1|Imane Chafi|Database Developer|30|
 |1|Mahroo Rahman|Non-Functional Requirements Software Lead|30|
 |1|Sofia Dieguez|UML Software Lead|30|
 |2|Adam Babs| RESTful services Software Lead|30|
